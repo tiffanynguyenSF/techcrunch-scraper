@@ -1,4 +1,4 @@
-# TechCrunch Article Scraper
+# techcrunch-scraper
 
 ## Purpose
 
