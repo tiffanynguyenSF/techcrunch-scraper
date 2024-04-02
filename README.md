@@ -6,10 +6,8 @@ This project serves as a foundational tool for a news summarization portal aimed
 
 ## Features
 
-- Automated News Summarization
-- Targeted Categories: Venture, Startups, and Artificial Intelligence
-- Data Organization in Excel
-- Customizable for user preferences
+- Compilation of relevant news articles
+- Download summarized news in an Excel file for further analysis
 
 ## Future Work
 
