@@ -2,16 +2,9 @@
 
 The TechCrunch Scraper serves as a tool for educational research into the AI chip market, identifying key problems that AI can solve and exploring the landscape of emerging companies and their valuation.
 
-## Research Goals 
+## Features 
 
-- **Analyze the AI Chip Market:** Understand the evolving dynamics, key players, and market opportunities for startups in the AI chip industry.
-- **Identify Problems Solved by AI:** Catalogue the range of challenges being addressed by current AI technologies, especially those being tackled by startups.
-- **Map the Ecosystem of AI Startups:** Dive into the specifics of what AI startup companies have accomplished, including their locations, industries served, and the innovative solutions they offer.
-- **Quantify Valuations:** Focus on developing a quantifiable cadence for valuing startups in the AI chip market and beyond, supporting financial analysts and investors in making informed decisions.
-
-## Google Colab Features 
-
-- Compilation of relevant news articles
+- Compilation of relevant AI news articles
 - Download summarized news in an Excel file for further analysis
 
 | Title                                                                                          | Date       | URL  |
@@ -40,7 +33,7 @@ The TechCrunch Scraper serves as a tool for educational research into the AI chi
 | Women in AI: Kate Devlin of King’s College is researching AI and intimacy                    | 2024-03-30 | [Link](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)                                         |
 | Startups Weekly: Big shake-ups at the AI heavyweights                                          | 2024-03-29 | [Link](https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/)                                                                                
 
-### AI Emerging Tech Industry Highlights - March 2024
+### Highlights - March 2024
 
 ### Funding News
 - **Qoala**, an Indonesian insurance startup, received $47M funding backed by PayPal. [Read more](URL)
