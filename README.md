@@ -1,9 +1,11 @@
 ## 🧠 TechCrunch Scraper — AI & Startup Funding Tracker
 
-This Colab notebook automatically scrapes **TechCrunch** news articles related to **artificial intelligence (AI)**, **startups**, and **venture funding**.  
-It was developed during my **Master’s in Finance and Data Analytics** to support valuation research for **Arith Inc.**, an AI startup developing patented chip technology.
+**Developed in collaboration with PayPal Ventures and Santa Clara University**
 
-The notebook collects and analyzes TechCrunch data to identify:
+This Colab notebook automatically scrapes **TechCrunch** news articles related to **artificial intelligence (AI)**, **startups**, and **venture funding**.  
+It was developed during my **Master’s in Finance and Data Analytics** at **Santa Clara University**, in collaboration with **PayPal Ventures**, to support valuation research for **Arith Inc.**, an AI startup developing patented chip technology.
+
+The notebook collects data to identify:
 
 - 📰 **Latest AI and tech startup news**  
 - 💰 **Funding amounts and rounds** (detected from article titles containing “raises” or “raised”)  
@@ -61,8 +63,6 @@ The notebook collects and analyzes TechCrunch data to identify:
 | Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices | 2024-03-31 | [Link](https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/)            
 | Women in AI: Kate Devlin of King’s College is researching AI and intimacy                    | 2024-03-30 | [Link](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)                                         
 | Startups Weekly: Big shake-ups at the AI heavyweights                                          | 2024-03-29 | [Link](https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/)                                                                                    
-
-
 | NewRetirement wants to simplify financial planning for retirement | 2024-03-27 | [Link](https://techcrunch.com/2024/03/27/newretirement-wants-to-simplify-financial-planning-for-retirement/) |
 | Musical toy startup Playtime Engineering wants to simplify electronic music making for kids | 2024-03-27 | [Link](https://techcrunch.com/2024/03/27/musical-toy-startup-playtime-engineering-wants-to-simplify-electronic-music-making-for-kids/) |
 | Cyvl.ai is bringing data-driven solutions to transportation infrastructure | 2024-03-27 | [Link](https://techcrunch.com/2024/03/27/cyvl-ai-is-bringing-data-driven-solutions-to-transportation-infrastructure/) |
@@ -83,6 +83,7 @@ The notebook collects and analyzes TechCrunch data to identify:
 | Former Nextdoor exec raises $25 million for PipeDreams, a startup rolling up HVAC companies | 2024-03-26 | [Link](https://techcrunch.com/2024/03/26/former-nextdoor-exec-raises-25-million-for-pipedreams-a-startup-rolling-up-hvac-companies/) |
 | Ionobell is turning to recycled silicon to boost EV range | 2024-03-26 | [Link](https://techcrunch.com/2024/03/26/ionobell-fundraise-exclusive/) |
 | Fireworks.ai open source API puts generative AI in reach of any developer | 2024-03-26 | [Link](https://techcrunch.com/2024/03/26/fireworks-ai-open-source-api-puts-generative-ai-in-reach-of-any-developer/) |
+
 
 ### 📫 Contact
 
